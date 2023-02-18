@@ -1,4 +1,4 @@
-# Rakamin Homework Week5
+# Rakamin Homework Week 7
 
 > **Homework Week 7 - Nodejs Introduction**<br>
 > *Bootcamp Online Fullstack Web Development*
